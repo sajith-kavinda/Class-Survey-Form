@@ -1,0 +1,29 @@
+﻿body
+{
+}
+
+input[type="text"], textarea {
+    margin-bottom: 10px;
+    padding-right:300px;
+}
+
+.form{background-color:rgb(128 128 128 / 0.83);
+      padding-left:14px;
+      padding-right:14px;
+      padding-top:30px;
+      padding-bottom:30px;
+     margin:180px 300px 0px 0px;
+     position: absolute;
+     top: 50%;
+     left: 50%;
+     transform: translate(-50%,-50%);
+}
+
+input[type="submit"]{
+    width: 470px;
+    background-color:limegreen;
+    border-color:limegreen;
+   
+}
+
+#select{width:467px;}
